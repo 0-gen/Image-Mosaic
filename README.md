@@ -1,1 +1,7 @@
-# Image-Mosaic
+![Page 1](readme_img/Image%20Mosaic_page-0001.jpg)
+![Page 2](readme_img/Image%20Mosaic_page-0002.jpg)
+![Page 3](readme_img/Image%20Mosaic_page-0003.jpg)
+![Page 4](readme_img/Image%20Mosaic_page-0004.jpg)
+![Page 5](readme_img/Image%20Mosaic_page-0005.jpg)
+![Page 6](readme_img/Image%20Mosaic_page-0006.jpg)
+![Page 7](readme_img/Image%20Mosaic_page-0007.jpg)
